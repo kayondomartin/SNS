@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this,"Find Friends",Toast.LENGTH_SHORT).show();
                 break;
             case R.id.nav_settings:
-                Toast.makeText(this,"Settings",Toast.LENGTH_SHORT).show();
+                Toast.makeText(this," Go to Settings",Toast.LENGTH_SHORT).show();
                 break;
             case R.id.nav_messages:
                 Toast.makeText(this,"Messages",Toast.LENGTH_SHORT).show();
